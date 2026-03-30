@@ -3,6 +3,10 @@ The background of this assignment is that Cora is battling to maintain social co
 
 The objective of this assignment is to develop an Android app using Kotlin in Android Studio that suggests small social “sparks” or actions based on the time of day. The app will use if statements to figure out which social “sparks” to suggest to Cora. 
 
+Cora must enter the time of day e.g (Morning) and it will give a social "sparks" that Cora can do.
+
+If Cora's enters the incorrect time of day then the app will suggest entering the correct time of day.
+
 #Youtube Link
 https://youtu.be/DSriqvDsDF0 
 
