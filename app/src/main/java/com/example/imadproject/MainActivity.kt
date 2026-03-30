@@ -47,24 +47,7 @@ class MainActivity : ComponentActivity() {
             } else if (time == "Dinner") {
                 resultText.text = "Send pictures of your dinner to your parents"
 
-            } else if (time == "After Dinner") {
-                resultText.text = "Call your parents for a 10-minute chat"
 
-            } else if (time == "Nighttime") {
-                resultText.text = "Before you go to bed, Send a Good Night text to your best friend"
 
-            } else {
-                resultText.text = "Invalid input, Please enter the correct time of day"
-            }
 
-        }
-        // Reset Button
-        resetButton.setOnClickListener {
-            timeInput.text.clear()
-            resultText.text = "Result will appear here"
-
-        }
-
-    }
-    }
 
