@@ -8,14 +8,12 @@
 
     <!--Title-->
 
-
     <!--Input-->
-    <!--Check Button-->
 
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_marginTop="10dp"
+        android:layout_marginTop="35dp"
         android:layout_marginBottom="10dp"
         android:fontFamily="sans-serif-condensed-medium"
         android:text="Cora's Chatbot App"
@@ -37,57 +35,20 @@
         android:layout_height="50dp"
         android:layout_marginTop="10dp"
         android:layout_marginBottom="20dp"
-        android:background="@android:drawable/edit_text"
+        android:background="@drawable/button1"
         android:fontFamily="sans-serif-condensed-medium"
         android:hint="Enter time of day"
         android:letterSpacing="0.05"
         android:padding="10dp"
         android:textSize="20dp"
         android:textStyle="bold"
-
-        />
-
-    <Button
-        android:id="@+id/btnEnter"
-        android:layout_width="388dp"
-        android:layout_height="50dp"
-        android:layout_gravity="center"
-        android:layout_marginBottom="20dp"
-        android:layout_marginTop="10dp"
-        android:background="@drawable/button1"
-        android:padding="16dp"
-        android:text="Press"
-        android:textAlignment="center"
         android:textColor="@color/black"
 
         />
 
-    <Button
-        android:id="@+id/btnReset"
-        android:layout_width="388dp"
-        android:layout_height="50dp"
-        android:layout_gravity="center"
-        android:layout_marginBottom="50dp"
-        android:background="@drawable/button1"
-        android:padding="16dp"
-        android:text="Reset"
-        android:textColor="@color/black"
 
-        />
 
-    <TextView
-        android:id="@+id/textResult"
-        android:layout_width="388dp"
-        android:layout_height="269dp"
-        android:layout_gravity="center"
-        android:background="@color/white"
-        android:text="Result will appear here"
-        android:textColor="@color/black"
-        android:textSize="35dp"
-        android:textAlignment="center"
-        android:letterSpacing="0.05"
-        android:fontFamily="sans-serif-condensed-medium"
-        android:layout_marginTop="15dp"
+
 
         />
 
