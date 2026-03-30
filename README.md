@@ -14,11 +14,13 @@ https://youtu.be/DSriqvDsDF0
 https://github.com/Gianni-GS/IMAD5112A1-Assignment.git  
 
 #Referencing
-Figure 1: Abstract blue gradient wallpaper with curved shapes (Source: Freepik) 
+My app was made using Kotlin in Android Studio.
+
+Figure 1: Abstract blue gradient wallpaper with curved shapes (Source: Freepik).
 
 Colour of the buttons (Programming Guru, 2022) 
 
-Shape of the buttons (Programming Guru,2022) 
+Shape of the buttons (Programming Guru, 2022) 
 
 Border around the buttons (Stevdza-San, 2019) 
 
